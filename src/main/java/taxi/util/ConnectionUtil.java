@@ -7,9 +7,9 @@ import java.util.Properties;
 
 public class ConnectionUtil {
     private static final String URL =
-            "jdbc:mysql://sql5.freesqldatabase.com/sql5513379?serverTimezone=UTC";
-    private static final String USERNAME = "sql5513379";
-    private static final String PASSWORD = "GNx3kLm1MZ";
+            "jdbc:mysql://database_server_address/schema_name?serverTimezone=UTC";
+    private static final String USERNAME = "user_name";
+    private static final String PASSWORD = "password";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
