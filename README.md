@@ -1,7 +1,7 @@
 # 🚖Taxi-service🚖
 ## Project description:
 ``````
-A simple web-application that supports registration, authentication and other CRUD operations. 
+A simple web-application that supports driver registration, authentication. After registration you can see registered drivers, available cars, manufacturers and what driver which car drives, add, update and remove them. 
 ``````
 ## Features:
 - registration like a driver;
@@ -16,8 +16,13 @@ A simple web-application that supports registration, authentication and other CR
 ## Reference on Heroku:
 - https://dry-basin-82210.herokuapp.com/
 ## Technologies:
+- SOLID principles;
 - based on JDBC (Java Database Connectivity) standard;
 - JSP (JavaServer Pages) technology;
+- Servlet technology;
+- HTML;
+- CSS;
+- Dependency injection technique;
 ## Launch project:
 - clone it to your IDE (Integrated Development Environment);
 - exchange plugs for valid values in ConnectionUtil file;

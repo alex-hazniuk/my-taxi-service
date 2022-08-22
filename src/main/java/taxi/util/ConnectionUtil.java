@@ -6,11 +6,11 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class ConnectionUtil {
-    private static final String URL =
-            "jdbc:mysql://database_server_address/schema_name?serverTimezone=UTC";
-    private static final String USERNAME = "user_name";
-    private static final String PASSWORD = "password";
-    private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
+    private static final String URL = "YOUR DATABASE URL";
+    private static final String USERNAME = "YOUR DATABASE USERNAME";
+    private static final String PASSWORD = "YOUR DATABASE PASSWORD";
+    private static final String JDBC_DRIVER = "YOUR DRIVER";
+
 
     static {
         try {
