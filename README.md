@@ -1,8 +1,8 @@
 # 🚖Taxi-service🚖
 ## Project description:
-``````
+
 A simple web-application that supports driver registration, authentication. After registration you can see registered drivers, available cars, manufacturers and what driver which car drives, add, update and remove them. 
-``````
+
 ## Features:
 - registration like a driver;
 - authentication like a driver
